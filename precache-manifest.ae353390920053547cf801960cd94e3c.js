@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-storyline/css/app.1e251b4b.css"
   },
   {
-    "revision": "1dc3af977cb97c4736b3f45ec98cbd35",
+    "revision": "4553167db2156070ad41e1666988aba9",
     "url": "/spa-storyline/index.html"
   },
   {
